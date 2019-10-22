@@ -58,7 +58,6 @@ public class DB {
 	
 	public boolean isRowExist(String query){
 		System.out.println("is existing fun");
-		//added by johannes hintsch, 15.8.2016 to test continuous integration
 		System.out.println("test output");
 		try {
 
