@@ -15,9 +15,9 @@ import java.util.concurrent.TimeUnit;
 /**
 * This class is responsible for performing database operations
 *
-* @author  Ikram ul haq
+* @authors  Ikram ul haq,Valluri
 * @version 1.0
-* @since   15-07-2016 
+* @since   15-02-2019 
 */
 
 
